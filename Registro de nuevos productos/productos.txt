@@ -1,0 +1,3 @@
+Labial Rojo|12|160
+labial rosa|2|245
+Labial Rojo|2|160
